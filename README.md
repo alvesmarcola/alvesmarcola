@@ -22,7 +22,7 @@
 
 <h3>Where to find me!</h3>
 
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/alvesmarcola)
+[![GitHub](https://github.com/alvesmarcola)]
 
   <p align="left">
   
