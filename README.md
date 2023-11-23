@@ -3,7 +3,7 @@
 <h3>About me</h3>
 
 - 🤔 Exploring new technologies to develop more professional and innovative interfaces.
-- 🎓 Fellow in the DESPERTAR.DEV FullStack program developed by Growdev.
+- 🎓 Full Stack Web Fellow at @Growdev through the Despertar.dev program, proposed by @SicrediPioneira.
 
 <h3>My Skills</h3>
 
@@ -13,6 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg)
 
 **Development tools**
 
