@@ -31,4 +31,4 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5554997053527"/></a>
 </p>
 
-  [![Linkedin](https://img.shields.io/badge/-Marco Alves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcolvess/)](https://www.linkedin.com/in/omarcolvess/)
+  [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omarcolvess/)](https://www.linkedin.com/in/omarcolvess/)
